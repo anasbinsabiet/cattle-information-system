@@ -1,0 +1,4 @@
+[23-Dec-2020 12:33:41 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home/gorukhamaricom/public_html/inventory/stock_out_cattle/action.php:289
+Stack trace:
+#0 {main}
+  thrown in /home/gorukhamaricom/public_html/inventory/stock_out_cattle/action.php on line 289

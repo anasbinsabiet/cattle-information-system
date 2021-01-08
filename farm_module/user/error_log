@@ -1,0 +1,2 @@
+[23-Dec-2020 13:50:47 Asia/Dhaka] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/gorukhamaricom/public_html/farm_module/user/action.php on line 132
+[23-Dec-2020 13:50:53 Asia/Dhaka] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/gorukhamaricom/public_html/farm_module/user/action.php on line 132
